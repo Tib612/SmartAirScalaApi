@@ -1,6 +1,6 @@
 2 type de données sont gérées par cette API:
--data: les données récoltées par les capteurs
--post: un objet exemple sur lequel nous nous sommes basé afin de comprendre et créer l'objet "data". Celui-ci doit rester là en tant que guide.
+- data: les données récoltées par les capteurs
+- post: un objet exemple sur lequel nous nous sommes basé afin de comprendre et créer l'objet "data". Celui-ci doit rester là en tant que guide.
 
 Ci-dessous, la description initale du projet démo.
 
